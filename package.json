@@ -1,0 +1,29 @@
+{
+    "name": "team-gen",
+    "version": "1.0.0",
+    "description": "a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person",
+    "main": "Index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/StephenWong-GIT"
+    },
+    "author": "Stephen Wong",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/StephenWong-GIT"
+    },
+    "homepage": "https://github.com/StephenWong-GIT",
+    "dependencies": {
+        "email-validator": "^2.0.4",
+        "inquirer": "^6.3.1"
+    },
+    "devDependencies": {
+        "jest": "^24.8.0"
+    }
+}
