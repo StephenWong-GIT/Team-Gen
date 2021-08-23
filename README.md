@@ -3,6 +3,8 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
   ## Description
   a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person
+  
+  Here is a link showing the functionality of the application here (mp4 file to large?) : https://streamable.com/f0foip
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
