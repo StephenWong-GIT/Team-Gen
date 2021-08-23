@@ -9,11 +9,14 @@
   - [Credits](#credits)
   - [License](#license)
   ## Installation
-  npm run test, node Index
+  npm init
+  npm install inquirer
+  npm install email-validator
+  npm install jest --save-dev
   
   ## Usage
   '''bash
-    Run command in CMD to and follow instructions to generate Team Member Profiles
+    Run command "node index" in CMD to and follow instructions to generate Team Member Profiles
   '''
   
   ## License
